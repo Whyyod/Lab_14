@@ -3,7 +3,10 @@ using namespace std;
 
 template <typename T>
 void insertionSort(T d[],int N){
-
+for (int i = 1 ; i < N-1 ; i++){
+	for (int j =0 ; )
+}
+cout << "\n";
 }
 
 int main(){
